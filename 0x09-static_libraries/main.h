@@ -1,6 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+9.09%)
+Create the static library libmy.a containing all the functions listed below:
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
